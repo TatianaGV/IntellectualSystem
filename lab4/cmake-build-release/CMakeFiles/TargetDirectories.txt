@@ -1,0 +1,3 @@
+/Users/mirror_white/CLionProjects/lab4/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/mirror_white/CLionProjects/lab4/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/mirror_white/CLionProjects/lab4/cmake-build-release/CMakeFiles/untitled.dir

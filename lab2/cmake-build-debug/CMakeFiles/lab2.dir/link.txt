@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab2.dir/fifteens.cpp.o CMakeFiles/lab2.dir/Search_algs.cpp.o CMakeFiles/lab2.dir/Heuristics.cpp.o  -o lab2 /usr/local/Cellar/qt/5.13.0/lib/QtCore.framework/QtCore 

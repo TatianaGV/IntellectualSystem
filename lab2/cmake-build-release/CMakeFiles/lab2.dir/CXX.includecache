@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mirror_white/CLionProjects/lab2/Heuristics.h
+Node.h
+/Users/mirror_white/CLionProjects/lab2/Node.h
+
+/Users/mirror_white/CLionProjects/lab2/Node.h
+vector
+-
+random
+-
+
+/Users/mirror_white/CLionProjects/lab2/Search_algs.h
+functional
+-
+iostream
+-
+unordered_set
+-
+queue
+-
+Node.h
+/Users/mirror_white/CLionProjects/lab2/Node.h
+
+/Users/mirror_white/CLionProjects/lab2/fifteens.cpp
+iostream
+-
+ctime
+-
+map
+-
+Node.h
+/Users/mirror_white/CLionProjects/lab2/Node.h
+Search_algs.h
+/Users/mirror_white/CLionProjects/lab2/Search_algs.h
+Heuristics.h
+/Users/mirror_white/CLionProjects/lab2/Heuristics.h
+

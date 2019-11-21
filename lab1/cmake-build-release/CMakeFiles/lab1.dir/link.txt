@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab1.dir/main.cpp.o  -o lab1 /usr/local/Cellar/qt/5.13.0/lib/QtCore.framework/QtCore 
